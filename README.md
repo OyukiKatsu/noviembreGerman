@@ -3,6 +3,6 @@
 
 _Esto es un texto en  cursiva_
 
-´´´python
+```python
   print("Hola, esto es un codigo de python")
-´´´
+```
